@@ -48,7 +48,7 @@ public class Escritura {
         origen1=new  BufferedReader(new FileReader("fusio.txt"));
         while((linia1=origen1.readLine())!=null) System.out.println(linia1);
         origen1.close();
-        System.out.println("hola");
+        System.out.println("hol");
         }
             
         }
